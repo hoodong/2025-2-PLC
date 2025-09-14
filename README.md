@@ -1,9 +1,11 @@
-# 2025-2 시퀀스제어및PLC프로그램밍
+# 2025-2 시퀀스제어및PLC프로그래밍
+- 개별과제는 패들렛에 작성 [https://padlet.com/dongchan_kmou/PLC](https://padlet.com/dongchan_kmou/PLC)
+- 조별과제는 여기에 작성
 
 1주차. 수업 OT 9/3
 
 2주차. 시퀀스 제어 기초 9/10
-- [패들렛에 조별과제 업로드](https://padlet.com/dongchan_kmou/PLC)
+- 패들렛에 조별과제 업로드
 - 3,5조 발표
   
 3주차. 시퀀스 제어 기초 9/17
