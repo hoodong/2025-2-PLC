@@ -27,6 +27,7 @@
   
 4주차. 전기공압 제어 기초 9/24
 - 온라인 강의 (LMS)
+- [깃허브 마크다운 사용법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   
 5주차. PLC 개요 및 구조 10/1
 
