@@ -1,6 +1,6 @@
 # 2025-2 시퀀스제어및PLC프로그래밍
 - 개별과제는 패들렛에 작성 [https://padlet.com/dongchan_kmou/PLC](https://padlet.com/dongchan_kmou/PLC)
-- 조별과제는 여기에 작성
+- 조별과제는 이 깃허브에 작성
 
 1주차. 수업 OT 9/3
 
