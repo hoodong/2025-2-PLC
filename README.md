@@ -21,7 +21,7 @@
 - [깃허브 마크다운 사용법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   
 5주차. PLC 개요 및 구조 10/1
-- 조별과제  
+- 조별과제(전기공압)
   [1조](/조별과제2/1조.md) [2조](/조별과제2/2조.md) [3조](/조별과제2/3조.md)
   [4조](/조별과제2/4조.md) [5조](/조별과제2/5조.md) [6조](/조별과제2/6조.md)
   [7조](/조별과제2/7조.md) [8조](/조별과제2/8조.md) [9조](/조별과제2/9조.md)
